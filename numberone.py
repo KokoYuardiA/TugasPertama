@@ -5,4 +5,4 @@ def sum_squares(*numbers) :
         temp += num**2
     return temp
 
-print(sum_squares(1, 2, 3, 4, 5))
+print(sum_squares(1, 2, 3))
